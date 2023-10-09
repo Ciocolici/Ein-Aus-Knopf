@@ -1,0 +1,17 @@
+C:\Users\danie\Documents\GitHub\EinAusKnopf\bin\Debug\net7.0-windows\EinAusKnopf.exe
+C:\Users\danie\Documents\GitHub\EinAusKnopf\bin\Debug\net7.0-windows\EinAusKnopf.deps.json
+C:\Users\danie\Documents\GitHub\EinAusKnopf\bin\Debug\net7.0-windows\EinAusKnopf.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\EinAusKnopf\bin\Debug\net7.0-windows\EinAusKnopf.dll
+C:\Users\danie\Documents\GitHub\EinAusKnopf\bin\Debug\net7.0-windows\EinAusKnopf.pdb
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.Properties.Resources.resources
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.dll
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\refint\EinAusKnopf.dll
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.pdb
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\ref\EinAusKnopf.dll
+C:\Users\danie\Documents\GitHub\EinAusKnopf\obj\Debug\net7.0-windows\EinAusKnopf.Knopf.resources
