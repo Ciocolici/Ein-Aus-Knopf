@@ -2,7 +2,6 @@
 
 A C# Windows Forms App exercise project, developed during my retraining as an IT Specialist in Application Development at Lutz + Grub Academy. This small program simulates a toggle button for a machine that can only be switched between ON and OFF states by entering the correct code ("123456"). The window can only be closed when the state is ON.
 
-A visual representation of the state transitions can be found in the file `Zustandsdiagramm.docx`.
 
 ## How to Run
 
